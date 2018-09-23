@@ -1,0 +1,5 @@
+awsS3:
+  accessKey: *****************
+  secretKey: *************************
+  bucketName: *********
+  region: ******
